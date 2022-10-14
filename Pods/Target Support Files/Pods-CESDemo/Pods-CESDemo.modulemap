@@ -1,0 +1,6 @@
+framework module Pods_CESDemo {
+  umbrella header "Pods-CESDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}
